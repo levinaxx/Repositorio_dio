@@ -1,2 +1,2 @@
 # Repositorio_dio
-Desafio de projeto sobre git/github da Dio.
+## Repositório onde guardarei todos os projetos feitos em aula no Bootcamp TQI da Plataforma DIO
