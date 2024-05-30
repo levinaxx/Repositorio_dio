@@ -1,0 +1,11 @@
+{
+    "explorer.excludeGitIgnore": true,
+    "explorer.fileNesting.enabled": true,
+    "outline.collapseItems": "alwaysExpand",
+    "outline.showArrays": true,
+    "outline.showVariables": true,
+    "emmet.showAbbreviationSuggestions": true,
+    "editor.autoClosingBrackets": "always",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorStyle": "line"
+}
